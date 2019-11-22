@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.challengefront">
+  package="com.buscacep">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.challengefront",
+    package = "com.buscacep",
 )
 
 android_resource(
     name = "res",
-    package = "com.challengefront",
+    package = "com.buscacep",
     res = "src/main/res",
 )
 
